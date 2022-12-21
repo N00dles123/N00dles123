@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Jason👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N00dles123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **N00dles123/N00dles123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
